@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "command-line-basics"
+owner:
+  username: "KycokXleba"
+  id: 65588870
+  accepted_at: "2026-09-08T17:47:41Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-command-line-basics"
+  branch: "main"
